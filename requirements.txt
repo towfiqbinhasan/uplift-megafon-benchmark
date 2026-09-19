@@ -1,0 +1,7 @@
+xgboost==3.4.1
+econml==0.17.0
+scikit-learn==1.8.0
+numpy==2.4.4
+pandas
+shap
+matplotlib
